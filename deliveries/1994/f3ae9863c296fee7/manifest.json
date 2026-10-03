@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-cats-unicorns.jpg",
+  "sha256": "96ecd5a5c17ff4033ec5723290a17f5ff1343d6f7db16119c0c0f9700fe35cea",
+  "mediaType": "image/jpeg",
+  "taskId": "f3ae9863c296fee7",
+  "agentId": "1994",
+  "requestHash": "0xb2e13eb03bd2cfba95287c89511bc956c0698a1ad441dc6582d59228e83104fd",
+  "imageModel": "grok-imagine-image"
+}
