@@ -1,0 +1,9 @@
+{
+  "name": "geometric-test-image.jpg",
+  "sha256": "28e216d01005cc4cbbd99a5001973e96b4ae193bf7072725bf6f6b9c7d361b33",
+  "mediaType": "image/jpeg",
+  "taskId": "696836e5c2feab86",
+  "agentId": "1994",
+  "requestHash": "0xbafa132c18b1f707d6bda9d9ee44c6d8d40f07cee456693ce4f6fa8bdba975ad",
+  "imageModel": "grok-imagine-image"
+}
